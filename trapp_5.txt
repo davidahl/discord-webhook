@@ -1,0 +1,8 @@
+Trapp 5,            Johannes, 1
+Trapp 5,            Viola, 0
+Trapp 5,            Kim och Linda, 0
+Trapp 5,            Jourun, 0
+Trapp 5,            Emma och Sara, 0
+Trapp 5,            Mimmi, 0
+Trapp 5,            Benjamin, 0
+Trapp 5,            Jenny och David, 0
